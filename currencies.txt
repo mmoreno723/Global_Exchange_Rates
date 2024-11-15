@@ -1,0 +1,20 @@
+AED, United Arab Emirates Dirham, 3.67
+ARS, Argentine Peso, 841.15
+AUD, Australian Dollar, 1.53
+BRL, Brazilian Real, 4.94
+CAD, Canadian Dollar, 1.35
+CHF, Swiss Franc, 0.88
+CNY, Chinese Yuan Renminbi, 7.20
+DKK, Danish Krone, 6.87
+EUR, Euro, 0.92
+GBP, British Pound, 0.78
+INR, Indian Rupee, 82.89
+JPY, Japanese Yen, 150.50
+KRW, South Korean Won, 1331.90
+MXN, Mexican Peso, 17.08
+RUB, Russian Ruble, 91.54
+SAR, Saudi Arabian Riyal, 3.75
+THB, Thai Baht, 35.87
+TRY, Turkish Lira, 31.15
+USD, United States Dollar, 1
+ZAR, South African Rand, 19.11
